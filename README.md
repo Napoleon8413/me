@@ -1,42 +1,29 @@
-- 👋 Hi, I’m @sneaky developer
-- 🌱 I’m currently learning django, Angular  
-- 📫 How to reach me?? no way!!
-
-<h2>Technologies that i use </h2>
-
-<div>
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-</div>
-<br>
-<h3>My text editor</h3>
-
-<div><img style="width:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></div>
-
-<br>
+<div align="center">
   
+# 👋 Hey, I'm Sneaky Developer
 
+### *Building cool stuff, one commit at a time* 🚀
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Python+%7C+Django+%7C+Angular;Open+Source+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 
+<br/>
 
-<img style="width:500px;" src="https://user-images.githubusercontent.com/111292790/192156729-f6961be1-fd91-4f35-8647-e3e65250f440.png">
+<img src="https://user-images.githubusercontent.com/111292790/192156729-f6961be1-fd91-4f35-8647-e3e65250f440.png" width="500" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkpan11/kkpan11/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kkpan11/kkpan11/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kkpan11/kkpan11/assets/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
+---
 
+## 🧑‍💻 About Me
 
-
-
-
+```python
+class SneakyDeveloper:
+    def __init__(self):
+        self.username = "sneaky developer"
+        self.role = "Full Stack Developer"
+        self.learning = ["Django", "Angular"]
+        self.interests = ["Web Development", "Backend Systems", "UI/UX"]
+        self.fun_fact = "I'm sneaky... you'll never find me! 🕵️"
+    
+    def reach_me(self):
+        return "No way!! 🤫"
