@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Sneaky Developer
+# 👋 Hey, I'm ...
 
 ### *Building cool stuff, one commit at a time* 🚀
 
