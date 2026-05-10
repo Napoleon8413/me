@@ -23,7 +23,7 @@ Languages & Frameworks
 ```python
 class SneakyDeveloper:
     def __init__(self):
-        self.username = "sneaky developer"
+        self.username = "..."
         self.role = "Full Stack Developer"
         self.learning = ["Django", "Angular"]
         self.interests = ["Web Development", "Backend Systems", "UI/UX"]
