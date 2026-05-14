@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm ...
+# 👋 Hey, I'm Napoleon
 
 ### *Building cool stuff, one commit at a time* 🚀
 
@@ -23,7 +23,7 @@ Languages & Frameworks
 ```python
 class SneakyDeveloper:
     def __init__(self):
-        self.username = "..."
+        self.username = "Napoleon8413"
         self.role = "Full Stack Developer"
         self.learning = ["Django", "Angular"]
         self.interests = ["Web Development", "Backend Systems", "UI/UX"]
